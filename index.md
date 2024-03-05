@@ -35,9 +35,17 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1kl4rV6dx3U9sPjBLbAOduOS3a4hL-Sx5?usp=sharing)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Captcha-recognition-Zone-h)
 
-<div style="text-align: justify">The project where I contribute a dataset comprising 50,000 captcha images and their corresponding labels. The dataset is used to train a model composed of CNN + RNN + CTC-loss.</div>
+<div style="text-align: justify">I contributed a dataset comprising <b>50,000</b> captcha images and their corresponding labels. The dataset is used to train a model composed of CNN + RNN + CTC-loss.</div>
 
 <center><img src="images/ctc-loss.png"/></center>
+
+---
+### DataDive:  Supporting Readers' Contextualization of Statistical Statements with Data Exploration
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kixlab/ClaimVis)
+
+<div style="text-align: justify">I proposed and implemented a multi-staged pipeline for data exploration focusing on text highlights, recommendations, and visualization using Large Language Models (LLM). I grounded LLM's visual reasoning on data using Text-to-SQL and Semantic Similarity. Recommendations were ranked with pair-wise ranking prompting. My pipeline achieved <b>80.5%</b> match accuracy; <b>98%</b> relevance and <b>4.07/5</b> interestingness for recommendation.</div>
+
+<center><img src="images/datadive.png"/></center>
 
 <!-- --- -->
 <!-- ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
@@ -116,7 +124,7 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 <center><img src="images/bac2018.JPG"/></center>
 <br> -->
 
----
+<!-- --- -->
 <!-- ## Filmed by me
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)

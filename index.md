@@ -29,6 +29,16 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 
 <center><img src="images/jack-rental-ml.png"/></center>
 
+---
+### Zone-h-esque Captcha Recognition
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1kl4rV6dx3U9sPjBLbAOduOS3a4hL-Sx5?usp=sharing)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Captcha-recognition-Zone-h)
+
+<div style="text-align: justify">The project where I contribute a dataset comprising 50,000 captcha images and their corresponding labels. The dataset is used to train a model composed of CNN + RNN + CTC-loss.</div>
+
+<center><img src="images/ctc-loss.png"/></center>
+
 <!-- --- -->
 <!-- ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 

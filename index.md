@@ -23,6 +23,8 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/CS189_FALL_2023)
 
+**Robot Localization**: A Hidden Markov Model (HMM) to localize a robot in a 2D grid world. The robot can move in four directions (up, down, left, right) and has a sensor that can identify obstruction. The goal is to estimate the robot's position given a sequence of noisy sensor measurements. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
+
 **Jack’s Car Rentals**: A reinforcement learning problem where the goal is to maximize the profit of a car rental company by deciding how many cars to move between two locations every night. The model used is a Markov Decision Process. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
 
 <center><img src="images/jack-rental-ml.png"/></center>

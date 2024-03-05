@@ -25,6 +25,8 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 
 **Jack’s Car Rentals**: A reinforcement learning problem where the goal is to maximize the profit of a car rental company by deciding how many cars to move between two locations every night. The model used is a Markov Decision Process. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
 
+<center><img src="images/jack-rental-ml.png"/></center>
+
 <!-- --- -->
 <!-- ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 

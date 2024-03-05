@@ -15,21 +15,6 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/nlp.png"/></center>
 
 ---
-## Machine Learning
-
-### CS189/289A: Introduction to Machine Learning
-
-My complete implementation of assignments and projects in [***CS189/289A: Introduction to Machine Learning***](https://www.eecs189.org/) by UC Berkeley (Fall, 2023).
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/CS189_FALL_2023)
-
-**Robot Localization**: A Hidden Markov Model (HMM) to localize a robot in a 2D grid world. The robot can move in four directions (up, down, left, right) and has a sensor that can identify obstruction. The goal is to estimate the robot's position given a sequence of noisy sensor measurements. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
-
-**Jack’s Car Rentals**: A reinforcement learning problem where the goal is to maximize the profit of a car rental company by deciding how many cars to move between two locations every night. The model used is a Markov Decision Process. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
-
-<center><img src="images/jack-rental-ml.png"/></center>
-
----
 ### Zone-h-esque Captcha Recognition
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1kl4rV6dx3U9sPjBLbAOduOS3a4hL-Sx5?usp=sharing)
@@ -45,10 +30,37 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 ### DataDive:  Supporting Readers' Contextualization of Statistical Statements with Data Exploration
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kixlab/ClaimVis)
 
-<div style="text-align: justify">I proposed and implemented a multi-staged pipeline for data exploration focusing on text highlights, recommendations, and visualization using Large Language Models (LLM). I grounded LLM's visual reasoning on data using Text-to-SQL and Semantic Similarity. Recommendations were ranked with pair-wise ranking prompting. My pipeline achieved <b>80.5%</b> match accuracy; <b>98%</b> relevance and <b>4.07/5</b> interestingness for recommendation.</div>
+<div style="text-align: justify">I proposed and implemented a multi-staged pipeline for data exploration focusing on text highlights, recommendations, and visualization using Large Language Models (LLM). I grounded LLM's visual reasoning on data using Text-to-SQL and Semantic Similarity. Recommendations were ranked with pair-wise ranking prompting. My pipeline achieved <b>80.5%</b> match accuracy; <b>98%</b> relevance and <b>4.07/5</b> interestingness for recommendation. <b>Got accepted at IUI</b>.</div>
+
 
 <br>
 <center><img src="images/datadive.png"/></center>
+<br>
+
+---
+## Machine Learning
+
+### CS189/289A: Introduction to Machine Learning
+
+My complete implementation of assignments and projects in [***CS189/289A: Introduction to Machine Learning***](https://www.eecs189.org/) by UC Berkeley (Fall, 2023).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/CS189_FALL_2023)
+
+**Robot Localization**: A Hidden Markov Model (HMM) to localize a robot in a 2D grid world. The robot can move in four directions (up, down, left, right) and has a sensor that can identify obstruction. The goal is to estimate the robot's position given a sequence of noisy sensor measurements. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
+
+**Jack’s Car Rentals**: A reinforcement learning problem where the goal is to maximize the profit of a car rental company by deciding how many cars to move between two locations every night. The model used is a Markov Decision Process. ([GitHub](https://github.com/duyvt6663/CS189_FALL_2023/tree/main/HW6))
+
+<center><img src="images/jack-rental-ml.png"/></center>
+
+---
+### Hierarchical Stock Clustering
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1llncY4oMKa-lumaUdYId7WhXwRZHoXef?usp=sharing)
+
+<div style="text-align: justify">I performed hierarchical clustering on S&P 500 data using Hierarchical Agglomerative Linkage algorithms and Directed Bubble Hierarchical Tree (DBHT), and benchmarked them against GICS. I then Tailored DBHT with Ward Linkage to improve its Adjusted Rand Index by <b>20%</b>. I also constructed a portfolio out of S&P 500 by applying Hierarchical Risk Parity on the clusters produced above.</div>
+
+<br>
+<center><img src="images/stock-clustering.png"/></center>
 <br>
 
 <!-- --- -->

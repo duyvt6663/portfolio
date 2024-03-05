@@ -8,11 +8,20 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/CS224n_2023)
 
-<!-- **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)). -->
+**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/duyvt6663/CS224n_2023/tree/main/assignment4).
 
 **Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/duyvt6663/CS224n_2023/tree/main/assignment3).
 
 <center><img src="images/nlp.png"/></center>
+
+---
+## Machine Learning
+
+### CS189/289A: Introduction to Machine Learning
+
+My complete implementation of assignments and projects in [***CS189/289A: Introduction to Machine Learning***](https://www.eecs189.org/) by UC Berkeley (Fall, 2023).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/CS189_FALL_2023)
 
 <!-- --- -->
 <!-- ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis

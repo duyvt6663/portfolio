@@ -31,7 +31,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Kalapa)
 
-We developed a Vietnamese Medical QA system leveraging a medical corpus comprising 600 articles that integrated Retrieval Augmented Generation (RAG) by ensembling SimeCSE_Vietnamese and BM25, with a layer of keyword search using Ahocorasick on top. We also finetuned a 3B reader Vietcunna with LoRA on GPT-4 generated data. The pipeline achieved 59.6% accuracy, 0.7 score, and positioned at top 10 out of 300 teams.
+<div style="text-align: justify">We developed a Vietnamese Medical QA system leveraging a medical corpus comprising 600 articles that integrated Retrieval Augmented Generation (RAG) by ensembling SimeCSE_Vietnamese and BM25, with a layer of keyword search using Ahocorasick on top. We also finetuned a 3B reader Vietcunna with LoRA on GPT-4 generated data. The pipeline achieved <b>59.6%</b> accuracy, <b>0.7</b> score, and positioned at top 10 out of 300 teams.</div>
 
 <br>
 <center><img src="images/RAG.png"/></center>
@@ -43,7 +43,7 @@ We developed a Vietnamese Medical QA system leveraging a medical corpus comprisi
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/LLM-Math-Solver)
 
 We developed a Vietnamese Math Solver System leveraging Llama-7B for vi2en translation plus custom parser and Tool-
-integrated Reasoning Agent (ToRA). We finetuned a baseline Vi-DeBERTA, and experimented with various of SOTA mathword models like MetaMath, GPT4 COT. The system achieved 75% accuracy
+integrated Reasoning Agent (ToRA). We finetuned a baseline Vi-DeBERTA, and experimented with various of SOTA mathword models like MetaMath, GPT4 COT. The system achieved <b>75%</b> accuracy
 
 <br>
 <center><img src="images/TORA.png"/></center>
@@ -51,6 +51,7 @@ integrated Reasoning Agent (ToRA). We finetuned a baseline Vi-DeBERTA, and exper
 
 ---
 ### DataDive:  Supporting Readers' Contextualization of Statistical Statements with Data Exploration
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kixlab/ClaimVis)
 
 <div style="text-align: justify">I proposed and implemented a multi-staged pipeline for data exploration focusing on text highlights, recommendations, and visualization using Large Language Models (LLM). I grounded LLM's visual reasoning on data using Text-to-SQL and Semantic Similarity. Recommendations were ranked with pair-wise ranking prompting. My pipeline achieved <b>80.5%</b> match accuracy; <b>98%</b> relevance and <b>4.07/5</b> interestingness for recommendation. <b>Got accepted at IUI</b>.</div>
@@ -84,6 +85,17 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 
 <br>
 <center><img src="images/stock-clustering.png"/></center>
+<br>
+
+---
+### Semi-Supervised Semantic Segmentation using Redesigned Self-Training for White Blood Cells
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Vinh2608/ST-PlusPlus)
+
+<div style="text-align: justify">We integrate the consistency training and self-training curriculum. We performed extensive experiment on different white-blood-cell datasets and report SOTA results.</div>
+
+<br>
+<center><img src="images/self-training.png"/></center>
 <br>
 
 <!-- --- -->

@@ -27,6 +27,29 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
+### Kalapa Medical QA 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Kalapa)
+
+We developed a Vietnamese Medical QA system leveraging a medical corpus comprising 600 articles that integrated Retrieval Augmented Generation (RAG) by ensembling SimeCSE_Vietnamese and BM25, with a layer of keyword search using Ahocorasick on top. We also finetuned a 3B reader Vietcunna with LoRA on GPT-4 generated data. The pipeline achieved 59.6% accuracy, 0.7 score, and positioned at top 10 out of 300 teams.
+
+<br>
+<center><img src="images/RAG.png"/></center>
+<br>
+
+---
+### ZaloAI Math-Solver System
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/LLM-Math-Solver)
+
+We developed a Vietnamese Math Solver System leveraging Llama-7B for vi2en translation plus custom parser and Tool-
+integrated Reasoning Agent (ToRA). We finetuned a baseline Vi-DeBERTA, and experimented with various of SOTA mathword models like MetaMath, GPT4 COT. The system achieved 75% accuracy
+
+<br>
+<center><img src="images/TORA.png"/></center>
+<br>
+
+---
 ### DataDive:  Supporting Readers' Contextualization of Statistical Statements with Data Exploration
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/kixlab/ClaimVis)
 

@@ -98,6 +98,19 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 <center><img src="images/self-training.png"/></center>
 <br>
 
+---
+# Software Engineering
+
+### Urban Waste Management System
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Urban-Waste-Management-System/tree/main)
+
+<div style="text-align: justify">This projects creates a web-based dashboard view for managers of an automated waste-collection system. The system follows an MVC architecture with a custom MySQL database. It automates route and workload arrangement using <b>Travelling Salesman Heuristics</b> and <b>Open Source Routing Machine</b> (OSRM)</div>
+
+<br>
+<center><img src="images/UWC.png"/></center>
+<br>
+
 <!-- --- -->
 <!-- ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
 

@@ -105,11 +105,23 @@ My complete implementation of assignments and projects in [***CS189/289A: Introd
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Urban-Waste-Management-System/tree/main)
 
-<div style="text-align: justify">This projects creates a web-based dashboard view for managers of an automated waste-collection system. The system follows an MVC architecture with a custom MySQL database. It automates route and workload arrangement using <b>Travelling Salesman Heuristics</b> and <b>Open Source Routing Machine</b> (OSRM)</div>
+<div style="text-align: justify">This projects creates a web-based dashboard view for managers of an automated waste-collection system. The system follows an MVC architecture with a custom <b>MySQL</b> database. It automates route and workload arrangement using <b>Travelling Salesman Heuristics</b> and <b>Open Source Routing Machine</b> (OSRM)</div>
 
 <br>
 <center><img src="images/UWC.png"/></center>
 <br>
+
+---
+### P2PChat
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/duyvt6663/Urban-Waste-Management-System/tree/main)
+
+<div style="text-align: justify">I implemented a hybrid <b>Client-Server x P2P</b> chat app where authentication and matching is done on the server. The system enabled realtime P2P communication using TCP protocol and Multithreading between authenticated peers together with <b>File Transfer</b> between peers.</div>
+
+<br>
+<center><img src="images/P2P.png"/></center>
+<br>
+
 
 <!-- --- -->
 <!-- ### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
